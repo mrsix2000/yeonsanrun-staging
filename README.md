@@ -31,3 +31,5 @@
 007 학년 미리보기 스테이징 재검증 트리거 (DB 변경 없음).
 
 007-2 학년 DB 저장/불러오기 검증 배포 요청.
+
+008-1 parent-child preview staging CI trigger.

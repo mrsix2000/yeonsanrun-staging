@@ -35,3 +35,5 @@
 008-1 parent-child preview staging CI trigger.
 
 008-2 secure family linking staging deployment.
+
+010-1 staging verification trigger: account settings (no production changes).

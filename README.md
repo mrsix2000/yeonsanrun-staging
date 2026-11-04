@@ -41,3 +41,5 @@
 015~020 staging verification trigger: source develop ff2f0e9b60ad9afcbd6e8a0234178ac82683bfa7.
 
 021~025 staging verification trigger: source develop 5609a22a613b42483362125cf1f4863cd7b17735.
+
+021~025 diagnostic input fix staging trigger: source develop be63c9e9018933bd7242c205d58a77cf1212f206.

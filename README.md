@@ -11,3 +11,5 @@
 004 verification trigger: 09acca463517554e3760eb343bb098408a460166
 
 004 ESM cache fix verification: 2dbcf4399f8d87709d9671dbacc89d0a353b866b
+
+004 nontrivial arithmetic verification: f62dffe21869ad5f8834f2f9fb47635bb8b76523

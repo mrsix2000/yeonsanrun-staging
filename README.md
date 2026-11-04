@@ -15,3 +15,5 @@
 004 nontrivial arithmetic verification: f62dffe21869ad5f8834f2f9fb47635bb8b76523
 
 004 nontrivial regression retry: b4baa1fdf04d8b94a5d0c8853f22957198d06a3f
+
+005 staging verification: 06d3534e513dcb7202b3ad94002f1884b9f363c1

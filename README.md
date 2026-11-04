@@ -27,3 +27,5 @@
 006 Supabase 연결 배포: source develop 5ed171058e064ad0a5efd7360f7523e247fd39e2
 
 006 Supabase 연결 테스트 재실행: source develop c2aca68bb2326b38832865b753502bd681a86821
+
+007 학년 미리보기 스테이징 재검증 트리거 (DB 변경 없음).

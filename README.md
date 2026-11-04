@@ -23,3 +23,5 @@
 005 answer submission fix staging verification: c2072f299b226aefb542f1910146330a0440dc4e
 
 006 authentication UI and tests trigger: 95fa48a0a6ce588435d3812678dd47e89eae622b
+
+006 Supabase 연결 배포: source develop 5ed171058e064ad0a5efd7360f7523e247fd39e2

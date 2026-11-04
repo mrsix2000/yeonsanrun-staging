@@ -25,3 +25,5 @@
 006 authentication UI and tests trigger: 95fa48a0a6ce588435d3812678dd47e89eae622b
 
 006 Supabase 연결 배포: source develop 5ed171058e064ad0a5efd7360f7523e247fd39e2
+
+006 Supabase 연결 테스트 재실행: source develop c2aca68bb2326b38832865b753502bd681a86821

@@ -17,3 +17,5 @@
 004 nontrivial regression retry: b4baa1fdf04d8b94a5d0c8853f22957198d06a3f
 
 005 staging verification: 06d3534e513dcb7202b3ad94002f1884b9f363c1
+
+005 five-question flow test trigger: 2709706d79b21981e7ae9d743f75805399cebab3

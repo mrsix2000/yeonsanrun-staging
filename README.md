@@ -21,3 +21,5 @@
 005 five-question flow test trigger: 2709706d79b21981e7ae9d743f75805399cebab3
 
 005 answer submission fix staging verification: c2072f299b226aefb542f1910146330a0440dc4e
+
+006 authentication UI and tests trigger: 95fa48a0a6ce588435d3812678dd47e89eae622b

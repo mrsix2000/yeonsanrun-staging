@@ -1,5 +1,7 @@
 name: Staging verification and deployment
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '*/5 * * * *'

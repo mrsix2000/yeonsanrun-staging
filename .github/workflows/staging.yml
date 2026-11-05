@@ -1,5 +1,6 @@
 name: Staging verification and deployment
 # Rebuild Pages from the latest yeonsanrun/develop source using the test project only.
+# Push-triggered runs also publish approved fixes without waiting for the scheduled run.
 on:
   push:
     branches: [main]

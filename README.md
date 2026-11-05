@@ -55,3 +55,5 @@
 041~050 readiness preview source develop 20d729b60f1cebaf8ec0ae6f25a2ebd1062fabf3.
 
 Test-only history browser walkthrough from source develop 2ffc0b5dcebc643a1766aacea45178cf550af435.
+
+- 2026-11-05: Deploy isolated parent report test page from source develop.

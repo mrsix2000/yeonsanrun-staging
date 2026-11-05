@@ -61,3 +61,5 @@ Test-only history browser walkthrough from source develop 2ffc0b5dcebc643a1766aa
 Parent recovery staging sync: 2026-11-05.
 
 OTP recovery staging sync 2026-11-05.
+
+- 2026-11-05: 026~030 서버 기록 새로고침 UI 검증용 최신 develop 배포 재실행. 테스트 Supabase 전용 설정을 유지합니다.

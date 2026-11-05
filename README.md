@@ -59,3 +59,5 @@ Test-only history browser walkthrough from source develop 2ffc0b5dcebc643a1766aa
 - 2026-11-05: Deploy isolated parent report test page from source develop.
 
 Parent recovery staging sync: 2026-11-05.
+
+OTP recovery staging sync 2026-11-05.

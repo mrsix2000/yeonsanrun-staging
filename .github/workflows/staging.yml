@@ -1,6 +1,7 @@
 name: Staging verification and deployment
 # Rebuild Pages from the latest yeonsanrun/develop source using the test project only.
 # Push-triggered runs also publish approved fixes without waiting for the scheduled run.
+# Rebuild trigger: 2026-11-05 family schema CI correction.
 on:
   push:
     branches: [main]

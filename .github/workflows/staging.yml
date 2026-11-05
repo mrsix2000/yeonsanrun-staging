@@ -27,6 +27,11 @@ jobs:
           node-version: '22'
       - name: Run automated tests
         run: npm test
+      - name: Isolate staging authentication and data from production
+        run: |
+          printf '%s\n' "// Staging-only public test project configuration" "export const SUPABASE_URL='https://cjrvoamwejcpmhyejamn.supabase.co';" "export const SUPABASE_PUBLISHABLE_KEY='sb_publishable_ti3tRCDlXvazkCMC6Xz1bQ_SfcGjbeM';" > src/supabase-config.js
+          grep -q 'cjrvoamwejcpmhyejamn' src/supabase-config.js
+          ! grep -q 'phydtapmwwonunqgaupx' src/supabase-config.js
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site
